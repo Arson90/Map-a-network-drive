@@ -1,0 +1,11 @@
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\bin\Release\Mapowanie Dysku.exe
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\bin\Release\Mapowanie Dysku.pdb
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Release\MainWindow.baml
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Release\MainWindow.g.cs
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Release\App.g.cs
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Release\Mapowanie Dysku_MarkupCompile.cache
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Release\Mapowanie Dysku.g.resources
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Release\Mapowanie_Dysku.Properties.Resources.resources
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Release\Mapowanie Dysku.csproj.GenerateResource.Cache
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Release\Mapowanie Dysku.exe
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Release\Mapowanie Dysku.pdb

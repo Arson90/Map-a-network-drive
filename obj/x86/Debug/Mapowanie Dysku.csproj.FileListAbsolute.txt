@@ -1,0 +1,33 @@
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\bin\Debug\Mapowanie Dysku.exe
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\bin\Debug\Mapowanie Dysku.pdb
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\MainWindow.baml
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\MainWindow.g.cs
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\App.g.cs
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku_MarkupCompile.cache
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.g.resources
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie_Dysku.Properties.Resources.resources
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.csproj.GenerateResource.Cache
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.exe
+K:\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.pdb
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.exe
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.pdb
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\bin\Debug\Mapowanie Dysku.exe
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\bin\Debug\Mapowanie Dysku.pdb
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\MainWindow.baml
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\MainWindow.g.cs
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\App.g.cs
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku_MarkupCompile.cache
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.g.resources
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie_Dysku.Properties.Resources.resources
+K:\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.csproj.GenerateResource.Cache
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.exe
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.pdb
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\bin\Debug\Mapowanie Dysku.exe
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\bin\Debug\Mapowanie Dysku.pdb
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\MainWindow.baml
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\App.g.cs
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku_MarkupCompile.cache
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.g.resources
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie_Dysku.Properties.Resources.resources
+C:\Users\Arek\Documents\JAVA\Aplikacja\Projects\Mapowanie Dysku\Mapowanie Dysku\Mapowanie Dysku\obj\x86\Debug\Mapowanie Dysku.csproj.GenerateResource.Cache

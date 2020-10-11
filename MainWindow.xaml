@@ -1,0 +1,15 @@
+﻿<Window x:Class="Mapowanie_Dysku.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mapowanie Dysku" Height="350" Width="525" Visibility="Visible" Foreground="Black" WindowStyle="SingleBorderWindow" Background="Black" FontSize="18" Icon="/Mapowanie%20Dysku;component/Images/Windows-10-network-drive-icon.png">
+    <Grid Visibility="Visible">
+        <Label Content="name.surname:" Height="32" HorizontalAlignment="Left" Margin="25,40,0,0" Name="label1" VerticalAlignment="Top" Width="130" FontSize="18" Foreground="White" />
+        <TextBox Height="32" HorizontalAlignment="Left" Margin="156,40,0,0" Name="txtUserName" VerticalAlignment="Top" Width="314" FontSize="18" Padding="0,3,0,0" />
+        <Label Content="password:" Height="32" HorizontalAlignment="Left" Margin="25,80,0,0" Name="label2" VerticalAlignment="Top" Width="120" FontSize="18" Foreground="White" />
+        <PasswordBox Height="32" HorizontalAlignment="Left" Margin="156,80,0,0" Name="txtPassword" VerticalAlignment="Top" Width="314" FontSize="18" Padding="0,3,0,0"/>
+        <Label Content="connecting with a drive P:\" Height="35" HorizontalAlignment="Left" Margin="25,120,0,0" Name="label3" VerticalAlignment="Top" Width="430"  FontSize="18" Foreground="White" />
+        <Button Content="Map network drive" Height="32" HorizontalAlignment="Left" Margin="30,200,0,0" Name="button1" VerticalAlignment="Top" Width="162" FontSize="18" Click="button1_Click" Background="#FFDDDDDD" />
+        <Button Content="Disconnect drive" Height="32" HorizontalAlignment="Left" Margin="309,200,0,0" Name="button2" VerticalAlignment="Top" Width="161" FontSize="18" Click="button2_Click" />
+        <Label Height="35" HorizontalAlignment="Left" Margin="30,250,0,0" Name="lblMessage" VerticalAlignment="Top" Width="430" FontSize="18" />
+    </Grid>
+</Window>
